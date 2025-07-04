@@ -1,8 +1,3 @@
-Here is a **fully formatted `README.md` file** ready for GitHub or any other markdown viewer. It's styled with proper sections, headers, tables, code blocks, and image placeholders.
-
----
-
-```markdown
 # 🧭 COMSATS Lahore - Smart Campus Navigation System
 
 A fully interactive and intelligent web-based navigation platform for **COMSATS Lahore Campus**. It computes the shortest or simplest walking path between campus buildings using advanced graph algorithms: **Dijkstra** and **BFS**.
@@ -85,17 +80,6 @@ Use the dropdown to select **source** and **destination**, and click **Find Rout
 
 ![image](https://github.com/user-attachments/assets/2e1a88cd-c529-47c5-8d3c-dbcc3118b7a2)
 
-### 🖼️ Map Interface
-
-![Map Interface](screenshots/map-interface.png)
-
----
-
-### 🛣️ Route Calculation Example
-
-![Route Example](screenshots/route-example.png)
-
----
 
 ## 🌐 API Overview
 
