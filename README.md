@@ -117,16 +117,14 @@ Use the dropdown to select **source** and **destination** along with the **alogr
 
 ---
 
+## 💡 Fun Fact:
+
+The university actually implemented some of these paths in the campus after we made this project.
+
 ## 👥 Contributors
 
 * 👨‍💻 [alirafay265](https://github.com/alirafay265)
 * 👨‍💻 [iambillx](https://github.com/iambillx)
-
----
-
-## 💡 Fun Fact:
-
-The university actually implemented some of these paths in the campus after we made this project.
 
 ## 📝 License
 
