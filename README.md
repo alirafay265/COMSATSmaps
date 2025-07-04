@@ -8,7 +8,7 @@ A fully interactive and intelligent web-based navigation platform for **COMSATS 
 
 ```
 
-project-root/
+COMSATSmaps/
 │
 ├── index.html               # Frontend UI (interactive map and controls)
 ├── navigation.cpp           # C++ engine (handles pathfinding logic)
@@ -39,7 +39,7 @@ g++ -o navigation_engine navigation.cpp
 
 This creates `navigation_engine.exe` which is required for the backend to function.
 
-> 💡 If you're on Mac/Linux, you may need to make it executable with `chmod +x navigation_engine`.
+> 💡 If you're on Mac/Linux, you may need to make it executable with `chmod +x navigation_engine` and tweak the server.js file accordingly (ask ChatGPT).
 
 ---
 
@@ -69,7 +69,7 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
-Use the dropdown to select **source** and **destination**, and click **Find Route**.
+Use the dropdown to select **source** and **destination** along with the **alogrithm**, and click **Find Route**.
 
 ---
 
