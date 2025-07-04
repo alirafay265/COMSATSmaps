@@ -125,6 +125,10 @@ Use the dropdown to select **source** and **destination** along with the **alogr
 
 ---
 
+## 💡 Fun Fact:
+
+The university actually implemented some of these paths in the campus after we made this project.
+
 ## 📝 License
 
 This project is for **educational and academic purposes only**.
