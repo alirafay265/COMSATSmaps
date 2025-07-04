@@ -11,7 +11,6 @@ A fully interactive and intelligent web-based navigation platform for **COMSATS 
 COMSATSmaps
 ├── index.html               # Frontend UI (interactive map and controls)
 ├── navigation.cpp           # C++ engine (handles pathfinding logic)
-├── navigation_engine.exe    # Compiled C++ binary
 ├── server.js                # Express backend server
 ├── Proposal.docx            # Word file (project proposal)
 ├── LICENSE                  # MIT License
