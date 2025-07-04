@@ -12,8 +12,9 @@ project-root/
 │
 ├── index.html               # Frontend UI (interactive map and controls)
 ├── navigation.cpp           # C++ engine (handles pathfinding logic)
-├── navigation\_engine.exe    # Compiled C++ binary
+├── navigation_engine.exe    # Compiled C++ binary
 ├── server.js                # Express backend server
+├── LICENSE                  # MIT License
 └── README.md                # This file
 
 ````
@@ -127,5 +128,3 @@ Use the dropdown to select **source** and **destination**, and click **Find Rout
 ## 📝 License
 
 This project is for **educational and academic purposes only**.
-
-```
